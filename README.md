@@ -3,7 +3,7 @@ Image classification on MNIST Hand-written Digits Dataset and function aproximat
 
 __For usage instrution please check [Usage README](https://github.com/SamyuelDanyo/ImageClassification_RadialBasisFunctions_SelfOrganizingMaps/blob/master/docs/README.txt)__
 
-__For full documentation - system design, experiemnts & findings please read [NaiveBayes_LogisticRegression_kNearestNeighborsDoc Report](https://github.com/SamyuelDanyo/ImageClassification_RadialBasisFunctions_SelfOrganizingMaps/blob/master/docs/ImageClassification_RadialBasisFunctions_SelfOrganizingMapsDoc.pdf)__
+__For full documentation - system design, experiemnts & findings please read [ImageClassification_RadialBasisFunctions_SelfOrganizingMapsDoc Report](https://github.com/SamyuelDanyo/ImageClassification_RadialBasisFunctions_SelfOrganizingMaps/blob/master/docs/ImageClassification_RadialBasisFunctions_SelfOrganizingMapsDoc.pdf)__
 
 ## Introduction
 Few experiments are undertaken:
