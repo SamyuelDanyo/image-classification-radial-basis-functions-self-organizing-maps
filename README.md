@@ -1,9 +1,11 @@
 ## ImageClassification_RadialBasisFunctions_SelfOrganizingMaps
 Image classification on MNIST Hand-written Digits Dataset and function aproximation (regression) via full custom Radial Basis Functions (Exact Interpolation + Fixed Centers Selected at Random Method + Regularization) and Self Organizing Maps implementation.
 
-__For usage instrution please check [Usage README](https://github.com/SamyuelDanyo/ImageClassification_RadialBasisFunctions_SelfOrganizingMaps/blob/master/docs/README.txt)__
+__For usage instructions please check [Usage README](https://github.com/SamyuelDanyo/ImageClassification_RadialBasisFunctions_SelfOrganizingMaps/blob/master/docs/README.txt)__
 
-__For full documentation - system design, experiemnts & findings please read [ImageClassification_RadialBasisFunctions_SelfOrganizingMapsDoc Report](https://github.com/SamyuelDanyo/ImageClassification_RadialBasisFunctions_SelfOrganizingMaps/blob/master/docs/ImageClassification_RadialBasisFunctions_SelfOrganizingMapsDoc.pdf)__
+__For full documentation - system design, experiments & findings please read [ImageClassification_RadialBasisFunctions_SelfOrganizingMapsDoc Report](https://github.com/SamyuelDanyo/ImageClassification_RadialBasisFunctions_SelfOrganizingMaps/blob/master/docs/ImageClassification_RadialBasisFunctions_SelfOrganizingMapsDoc.pdf)__
+
+__[GutHub Pages Format](https://samyueldanyo.github.io/image-classification-radial-basis-functions-self-organizing-maps/)__
 
 ## Introduction
 Few experiments are undertaken:
